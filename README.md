@@ -2,6 +2,8 @@
 
 An executive Power BI dashboard analyzing the adoption, growth, and geographical distribution of Electric Vehicles (EVs) across Washington State.
 
+![Dashboard Preview](Dashboard_EV_Population_Washington_State.png)
+
 ---
 
 ## 📌 Project Overview
