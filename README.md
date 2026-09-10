@@ -1,4 +1,4 @@
-# 🚗 Washington State Electric Vehicle Population Dashboard
+## 🚗 Washington State Electric Vehicle Population Dashboard
 
 An executive Power BI dashboard analyzing the adoption, growth, and geographical distribution of Electric Vehicles (EVs) across Washington State.
 
